@@ -53,7 +53,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
 
 ### ***Bug Tracking & IDEs***
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
 ![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
