@@ -94,7 +94,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid_Web-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
 [![Pools Winery](https://img.shields.io/badge/-Pools_Winery_Web-FB8C00?style=flat&logo=bitcoin)](https://poolswinery.it/) 
 [![Piston](https://img.shields.io/badge/-Piston_App-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
-[![Racing](https://img.shields.io/badge/-Piston_App-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
+[![Racing](https://img.shields.io/badge/-Racing_App-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
 [![Tongram](https://img.shields.io/badge/-Tongram_Web-20C997?style=flat&logo=Solana)](https://tongram.app/)
 [![Tongram](https://img.shields.io/badge/-Tongram_App-20C997?style=flat&logo=Solana)](https://t.me/tongram_app_dev_bot/appcenter)
 
