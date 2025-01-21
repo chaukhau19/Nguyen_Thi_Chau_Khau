@@ -77,9 +77,8 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat&logo=apple-music) 
 ![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat&logo=shopify) 
 ![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat&logo=openai) 
-![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
 ![Telegram Mini Games](https://img.shields.io/badge/-Telegram_Mini_Games-DC3545?style=flat&logo=telegram) 
-![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat&logo=Solana)
+![DApps](https://img.shields.io/badge/-DApps-20C997?style=flat&logo=Solana)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin)  
 ![Media & Entertainment](https://img.shields.io/badge/-Movies_&_Entertainment-FF6347?style=flat&logo=netflix) 
 
