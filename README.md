@@ -80,6 +80,8 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
 ![Telegram Mini Games](https://img.shields.io/badge/-Telegram_Mini_Games-DC3545?style=flat&logo=telegram) 
 ![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat&logo=Solana)
+![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin)  
+![Media & Entertainment](https://img.shields.io/badge/-Movies_&_Entertainment-FF6347?style=flat&logo=netflix) 
 
 ### ***Projects***
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=phone)](https://www.cirpack.com/)
