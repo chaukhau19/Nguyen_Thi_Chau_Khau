@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaukhau19&layout=compact&theme=radical)
 
-## 🛠️ Tech Stack
+## 🛠️ I. Tech Stack
 
 ### ***Manual Testing***
 ![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat) 
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Scrum](https://img.shields.io/badge/-Scrum-DA1212?style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-28A745?style=flat)
 
-## 🌿 Highlighted Projects
+## 🌿 II. Highlighted Projects
 
 ### ***Domains***
 
