@@ -101,11 +101,11 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Tongram](https://img.shields.io/badge/-Tongram_App-20C997?style=flat&logo=Solana)](https://t.me/tongram_app_dev_bot/appcenter)
 [![AIOZ Finance](https://img.shields.io/badge/-AIOZ_Finance-FB8C00?style=flat&logo=bitcoin)](https://aioz.network/)
 
-## 🏆 Portfolio Details - Summary of project details (Critical)
+## 🏆 III. Portfolio Details - Summary of project details (Critical)
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
 [![CV](https://img.shields.io/badge/-CV-4B0082?style=flat&logo=pdf)](https://www.topcv.vn/xem-cv/BAkEVlpUC1FTAQdSDFYADgVXUwFcXF5RDlVdAQcf27?ta_source=EditCVInAfterSaveCV)
 
-## 🏆 Achievements
+## 🏆 IV. Achievements
 - 🐞 Identified and reported critical bugs, reducing post-release errors by 99%, ensuring customer satisfaction.
 - 🚀 Built automation from scratch for many projects, integrating with CI/CD pipelines to ensure seamless and continuous delivery.
 - ✅ Successfully managed and implemented over 15,000 test cases on many different versions.
