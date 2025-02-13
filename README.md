@@ -100,6 +100,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Tongram](https://img.shields.io/badge/-Tongram_Web-20C997?style=flat&logo=Solana)](https://tongram.app/)
 [![Tongram](https://img.shields.io/badge/-Tongram_App-20C997?style=flat&logo=Solana)](https://t.me/tongram_app_dev_bot/appcenter)
 [![AIOZ Finance](https://img.shields.io/badge/-AIOZ_Finance-FB8C00?style=flat&logo=bitcoin)](https://aioz.network/)
+[![Galaxy Play](https://img.shields.io/badge/-Galaxy_Play-FF6347?style=flat&logo=netflix)](https://galaxyplay.vn/)
 
 ## 🏆 III. Portfolio Details - Summary of project details (Critical)
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
