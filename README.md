@@ -99,11 +99,14 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Tonrider](https://img.shields.io/badge/-Tonrider_App-DC3545?style=flat&logo=telegram)](https://t.me/ton_rider_bot/ton_rider) 
 [![Tongram](https://img.shields.io/badge/-Tongram_Web-20C997?style=flat&logo=Solana)](https://tongram.app/)
 [![Tongram](https://img.shields.io/badge/-Tongram_App-20C997?style=flat&logo=Solana)](https://t.me/tongram_app_dev_bot/appcenter)
-[![AIOZ Finance](https://img.shields.io/badge/-AIOZ_Finance-FB8C00?style=flat&logo=bitcoin)](https://aioz.network/)
 [![Galaxy Play](https://img.shields.io/badge/-Galaxy_Play-FF6347?style=flat&logo=netflix)](https://galaxyplay.vn/)
+[![AIOZ Finance](https://img.shields.io/badge/-AIOZ_Finance-FB8C00?style=flat&logo=bitcoin)](https://aioz.network/)
+[![AIOZ PIN](https://img.shields.io/badge/-AIOZ_PIN-FB8C00?style=flat&logo=bitcoin)](https://aiozpin.network/)
+[![AIOZ Storage](https://img.shields.io/badge/-AIOZ_Storage-FB8C00?style=flat&logo=bitcoin)](https://w3s.storage/)
+[![AIOZ AI](https://img.shields.io/badge/-AIOZ_AI-FB8C00?style=flat&logo=bitcoin)](https://aiozai.network/)
 
 ## 🏆 III. Portfolio Details - Summary of project details (Critical)
-[![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
+[![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://www.canva.com/design/DAGH9Peicjg/KzrRzpm9c6WhURbgja3--w/edit?utm_content=DAGH9Peicjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![CV](https://img.shields.io/badge/-CV-4B0082?style=flat&logo=pdf)](https://www.topcv.vn/xem-cv/BAkEVlpUC1FTAQdSDFYADgVXUwFcXF5RDlVdAQcf27?ta_source=EditCVInAfterSaveCV)
 
 ## 🏆 IV. Achievements
