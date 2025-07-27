@@ -1,6 +1,6 @@
-# 🌟 QA/QC Manual & Automation Specialist 🌟
+# 🌟 Software QA Engineer 🌟
 
-Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over 3 years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
+Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional with over 3 years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaukhau19&layout=compact&theme=radical)
