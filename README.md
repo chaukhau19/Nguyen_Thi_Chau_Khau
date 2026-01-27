@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Migration Testing](https://img.shields.io/badge/-Migration_Testing-F39C12?style=flat) 
 
 ### ***Automation Tools***
-![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
+![Robot Framework](https://img.shields.io/badge/-RobotFramework-blue?style=flat&logo=selenium) 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-green?style=flat&logo=soapui)
 ![Appium](https://img.shields.io/badge/-Appium-purple?style=flat&logo=appium)
