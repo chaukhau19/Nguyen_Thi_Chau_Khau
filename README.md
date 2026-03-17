@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
 
 ### ***Languages & Development***
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
