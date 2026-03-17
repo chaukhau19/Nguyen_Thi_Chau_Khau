@@ -18,19 +18,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Sanity Testing](https://img.shields.io/badge/-Sanity_Testing-8E44AD?style=flat) 
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
 
-### ***Testing Techniques***
-![Equivalence Partitioning](https://img.shields.io/badge/-Equivalence_Partitioning-FF5733?style=flat) 
-![Boundary Value Analysis](https://img.shields.io/badge/-Boundary_Value_Analysis-F39C12?style=flat) 
-![Decision Table Testing](https://img.shields.io/badge/-Decision_Table_Testing-FFC300?style=flat) 
-![State Transition Testing](https://img.shields.io/badge/-State_Transition_Testing-007BFF?style=flat) 
-![Use Case Testing](https://img.shields.io/badge/-Use_Case_Testing-DAF7A6?style=flat) 
-![Random Testing](https://img.shields.io/badge/-Random_Testing-581845?style=flat) 
-![Backward Testing](https://img.shields.io/badge/-Backward_Testing-28A745?style=flat) 
-![Page Object Model](https://img.shields.io/badge/-Page_Object_Model-8E44AD?style=flat) 
-![Installation Testing](https://img.shields.io/badge/-Installation_Testing-581845?style=flat) 
-![Upgrade Testing](https://img.shields.io/badge/-Upgrade_Testing-FF5733?style=flat) 
-![Migration Testing](https://img.shields.io/badge/-Migration_Testing-F39C12?style=flat) 
-
 ### ***Automation Tools***
 ![Robot Framework](https://img.shields.io/badge/-Robot-Framework-blue?style=flat&logo=selenium) 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman)
@@ -38,23 +25,19 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
 
 ### ***Languages & Development***
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ### ***DevOps Server & CI-CD & Version Control***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
 ![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
 
 ### ***Bug Tracking & IDEs***
 ![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
 
 ### ***Operating Systems & Databases***
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows)
