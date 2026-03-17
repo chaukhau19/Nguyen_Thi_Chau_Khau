@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat) 
 ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat) 
 ![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat) 
-![User Acceptance Testing](https://img.shields.io/badge/-User_Acceptance_Testing-8E44AD?style=flat) 
-![Sanity Testing](https://img.shields.io/badge/-Sanity_Testing-8E44AD?style=flat) 
+![Integration Testing](https://img.shields.io/badge/-Integration_Testing-8E44AD?style=flat) 
+![System Testing](https://img.shields.io/badge/-System_Testing-8E44AD?style=flat) 
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
 
 ### ***Automation Testing***
@@ -24,19 +24,15 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Appium](https://img.shields.io/badge/-Appium-purple?style=flat&logo=appium)
 ![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
 
-### ***Languages & Development***
+### ***Languages***
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
-### ***DevOps Server & CI-CD & Version Control***
+### ***DevOps Server & CI-CD***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
 ![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
-
-### ***Bug Tracking & IDEs***
-![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
-![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
 
 ### ***Operating Systems & Databases***
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows)
@@ -44,11 +40,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
-
-### ***UI/UX Design & Development Methodologies***
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Scrum](https://img.shields.io/badge/-Scrum-DA1212?style=flat)
-![Agile](https://img.shields.io/badge/-Agile-28A745?style=flat)
 
 ## 🌿 II. Highlighted Projects
 
