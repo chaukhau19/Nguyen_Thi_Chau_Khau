@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
 
 ### ***Automation Tools***
-![Robot Framework](https://img.shields.io/badge/-Robot-Framework-blue?style=flat&logo=selenium) 
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman)
 ![Appium](https://img.shields.io/badge/-Appium-purple?style=flat&logo=appium)
 ![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
