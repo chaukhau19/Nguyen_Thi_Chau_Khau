@@ -75,16 +75,18 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu,Software QA Engine
 [![AIOZ AI](https://img.shields.io/badge/-AIOZ_AI-FB8C00?style=flat&logo=bitcoin)](https://aiozai.network/)
 
 ## 🏆 III. Portfolio Details - Summary of project details (Critical)
-[![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://www.canva.com/design/DAGH9Peicjg/KzrRzpm9c6WhURbgja3--w/edit?utm_content=DAGH9Peicjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://www.canva.com/design/DAGH9Peicjg/KzrRzpm9c6WhURbgja3--w/edit?utm_content=DAGH9Peicjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://github.com/chaukhau19/My_Profile/blob/main/README.md
 [![CV](https://img.shields.io/badge/-View%20CV-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.topcv.vn/xem-cv/UwNRVFoDVQcEVFBXUFoPAl4NW1sGA1JRC1QACQ0fca)
 
 ## 🏆 IV. Achievements
-- 🐞 Identified and reported critical bugs, reducing post-release errors by 99%, ensuring customer satisfaction.
-- 🚀 Built automation from scratch for many projects, integrating with CI/CD pipelines to ensure seamless and continuous delivery.
-- ✅ Successfully managed and implemented over 15,000 test cases on many different versions.
-- ⚙️ Developed and customized automation frameworks, improving testing efficiency by 99% and expanding testing scope across different platforms.
-- ⏱️ Reduced automatic test execution time by 30% with a 100% passing rate, shortening overall release cycles.
-- ⏳ Reduced manual daily tasks by automating repetitive processes, cutting 2 hours of work per day.
+
+- 🐞 Identified and reported critical bugs, reducing post-release defects by up to 99% and improving customer satisfaction.
+- 🏗️ Designed and built scalable end-to-end automation frameworks (Web, API, Mobile), establishing maintainable test architecture across multiple projects.
+- 🚀 Integrated automation into CI/CD pipelines, enabling faster and more reliable continuous delivery.
+- ✅ Designed, managed, and executed over 5,000 test cases across multiple product versions.
+- ⚙️ Improved testing efficiency by up to 99% and significantly expanded cross-platform test coverage.
+- ⏱️ Reduced automated test execution time by 30%, accelerating overall release cycles while maintaining stability.
+- ⏳ Automated repetitive processes, saving approximately 2 hours of manual work per day and increasing team productivity.
 
 ## 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
