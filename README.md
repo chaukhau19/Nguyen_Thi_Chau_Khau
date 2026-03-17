@@ -1,6 +1,6 @@
 # 🌟 Software QA Engineer 🌟
 
-Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional with over 4 years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
+Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu,Software QA Engineer with 4+ years of experience in building scalable test frameworks, CI/CD pipelines, and system-level testing across Telecom, AI, and Web3 domains. Strong expertise in Playwright, test automation architecture, and cross-platform testing (Web, Mobile, API), with a focus on improving product quality and engineering efficiency.est cases, and implementing automated testing solutions to ensure high-quality software delivery.
 
 ## 🛠️ I. Tech Stack
 
@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA professional
 ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat) 
 ![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat) 
 ![Integration Testing](https://img.shields.io/badge/-Integration_Testing-8E44AD?style=flat) 
-![System Testing](https://img.shields.io/badge/-System_Testing-8E44AD?style=flat) 
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
+![System Testing](https://img.shields.io/badge/-System_Testing-8E44AD?style=flat) 
 
 ### ***Automation Testing***
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
