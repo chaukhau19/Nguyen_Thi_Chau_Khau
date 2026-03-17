@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu,Software QA Engine
 
 ## 🏆 III. Portfolio Details - Summary of project details (Critical)
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://www.canva.com/design/DAGH9Peicjg/KzrRzpm9c6WhURbgja3--w/edit?utm_content=DAGH9Peicjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[![CV](https://www.topcv.vn/xem-cv/UwNRVFoDVQcEVFBXUFoPAl4NW1sGA1JRC1QACQ0fca)
+[![CV](https://img.shields.io/badge/-View%20CV-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.topcv.vn/xem-cv/UwNRVFoDVQcEVFBXUFoPAl4NW1sGA1JRC1QACQ0fca)
 
 ## 🏆 IV. Achievements
 - 🐞 Identified and reported critical bugs, reducing post-release errors by 99%, ensuring customer satisfaction.
