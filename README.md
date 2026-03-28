@@ -1,7 +1,7 @@
 # 🌟 Software QA Engineer 🌟
-Welcome to my GitHub profile! 
-Nguyễn Thị Châu Khâu — Software QA Engineer with 4+ years of experience in building scalable test frameworks, CI/CD pipelines, and system-level testing across Telecom, AI, and Web3.
-Specialized in Playwright, automation architecture, and end-to-end testing (Web, Mobile, API), with a focus on quality engineering, reliability, and efficient delivery.
+Welcome to my GitHub profile!
+I’m Nguyễn Thị Châu Khâu — a Software QA Engineer with 4+ years of experience in scalable test frameworks, CI/CD pipelines, and system-level testing across Telecom, AI, and Web3.
+I specialize in Playwright, automation architecture, and end-to-end testing (Web, Mobile, API), with a strong focus on quality, reliability, and efficient delivery.
 
 ## 🛠️ I. Tech Stack
 
