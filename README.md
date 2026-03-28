@@ -27,9 +27,8 @@ Specialized in Playwright, automation architecture, and end-to-end testing (Web,
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ### ***CI-CD***
-![Jenkins]
-(https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
-![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ### ***Server***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
