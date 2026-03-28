@@ -27,7 +27,8 @@ Specialized in Playwright, automation architecture, and end-to-end testing (Web,
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ### ***CI-CD***
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+![Jenkins]
+(https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
 
 ### ***Server***
@@ -41,15 +42,14 @@ Specialized in Playwright, automation architecture, and end-to-end testing (Web,
 ## 🌿 II. Highlighted Projects
 
 ### ***Domains***
-
 ![Telecom](https://img.shields.io/badge/-Telecom-1E90FF?style=flat) 
 ![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat&logo=apple-music) 
 ![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat&logo=shopify) 
 ![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat&logo=openai) 
-![Telegram Mini Games](https://img.shields.io/badge/-Telegram_Mini_Games-DC3545?style=flat&logo=telegram) 
-![DApps](https://img.shields.io/badge/-DApps-20C997?style=flat&logo=Solana)
-![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin)  
+![Telegram Mini Game](https://img.shields.io/badge/-Telegram_Mini_Games-DC3545?style=flat&logo=telegram) 
+![DApps](https://img.shields.io/badge/-DApps-20C997?style=flat&logo=Solana) 
 ![Streaming](https://img.shields.io/badge/-Streaming-FF6347?style=flat&logo=netflix) 
+![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
 
 ### ***Projects***
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=phone)](https://www.cirpack.com/)
@@ -71,6 +71,7 @@ Specialized in Playwright, automation architecture, and end-to-end testing (Web,
 [![AIOZ AI](https://img.shields.io/badge/-AIOZ_AI-FB8C00?style=flat&logo=bitcoin)](https://aiozai.network/)
 
 ## 🏆 III. Portfolio Details - Summary of project details (Critical)
+
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://www.canva.com/design/DAGH9Peicjg/KzrRzpm9c6WhURbgja3--w/edit?utm_content=DAGH9Peicjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![CV](https://img.shields.io/badge/-View%20CV-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.topcv.vn/xem-cv/UwNRVFoDVQcEVFBXUFoPAl4NW1sGA1JRC1QACQ0fca)
 
@@ -85,6 +86,7 @@ Specialized in Playwright, automation architecture, and end-to-end testing (Web,
 - ⏳ Automated repetitive workflows, saving ~2 hours/day and improving team productivity.
 
 ## 📫 Connect with me:
+
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
 [![Zalo](https://img.shields.io/badge/-Zalo-0078D4?style=flat&logo=zalo)](https://zalo.me/0327720369) 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/phu.nick.186?mibextid=ZbWKwL)
