@@ -1,5 +1,7 @@
 # 🌟 Software QA Engineer 🌟
-Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu,Software QA Engineer with 4+ years of experience in building scalable test frameworks, CI/CD pipelines, and system-level testing across Telecom, AI, and Web3 domains. Strong expertise in Playwright, test automation architecture, and cross-platform testing (Web, Mobile, API), with a focus on improving product quality and engineering efficiency.est cases, and implementing automated testing solutions to ensure high-quality software delivery.
+Welcome to my GitHub profile! 
+Nguyễn Thị Châu Khâu — Software QA Engineer with 4+ years of experience in building scalable test frameworks, CI/CD pipelines, and system-level testing across Telecom, AI, and Web3.
+Specialized in Playwright, automation architecture, and end-to-end testing (Web, Mobile, API), with a focus on quality engineering, reliability, and efficient delivery.
 
 ## 🛠️ I. Tech Stack
 
@@ -24,13 +26,13 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu,Software QA Engine
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
-### ***DevOps Server & CI-CD***
+### ***Server & CI-CD***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
 ![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
 
-### ***Operating Systems & Databases***
+### ***Systems***
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
