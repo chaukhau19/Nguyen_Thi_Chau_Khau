@@ -26,17 +26,16 @@ Specialized in Playwright, automation architecture, and end-to-end testing (Web,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
-### ***Server & CI-CD***
-![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
+### ***CI-CD***
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
-![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
+
+### ***Server***
+![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 
 ### ***Systems***
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
 
 ## 🌿 II. Highlighted Projects
