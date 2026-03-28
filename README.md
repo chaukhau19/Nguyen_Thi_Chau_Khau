@@ -1,5 +1,4 @@
 # 🌟 Software QA Engineer 🌟
-
 Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu,Software QA Engineer with 4+ years of experience in building scalable test frameworks, CI/CD pipelines, and system-level testing across Telecom, AI, and Web3 domains. Strong expertise in Playwright, test automation architecture, and cross-platform testing (Web, Mobile, API), with a focus on improving product quality and engineering efficiency.est cases, and implementing automated testing solutions to ensure high-quality software delivery.
 
 ## 🛠️ I. Tech Stack
@@ -80,13 +79,13 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu,Software QA Engine
 
 ## 🏆 IV. Achievements
 
-- 🐞 Identified and reported critical bugs, reducing post-release defects by up to 99% and improving customer satisfaction.
-- 🏗️ Designed and built scalable end-to-end automation frameworks (Web, API, Mobile), establishing maintainable test architecture across multiple projects.
-- 🚀 Integrated automation into CI/CD pipelines, enabling faster and more reliable continuous delivery.
-- ✅ Designed, managed, and executed over 5,000 test cases across multiple product versions.
-- ⚙️ Improved testing efficiency by up to 99% and significantly expanded cross-platform test coverage.
-- ⏱️ Reduced automated test execution time by 30%, accelerating overall release cycles while maintaining stability.
-- ⏳ Automated repetitive processes, saving approximately 2 hours of manual work per day and increasing team productivity.
+- 🐞 Identified and resolved critical defects early, significantly reducing post-release issues and improving overall product quality.
+- 🏗️ Designed and implemented scalable end-to-end automation frameworks (Web, API, Mobile), establishing reusable and maintainable test architecture across projects.
+- 🚀 Integrated automation into CI/CD pipelines, enabling faster feedback cycles and more reliable releases.
+- ✅ Led and executed 5,000+ test cases across multiple product versions, ensuring comprehensive system validation.
+- ⚙️ Improved testing efficiency and expanded cross-platform coverage, increasing confidence in large-scale systems.
+- ⏱️ Reduced automated test execution time by 30%, accelerating release cycles without compromising stability.
+- ⏳ Automated repetitive workflows, saving ~2 hours/day and improving team productivity.
 
 ## 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
