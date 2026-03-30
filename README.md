@@ -13,8 +13,8 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat) 
 ![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat) 
 ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat) 
-
 ![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat) 
+
 ![Integration Testing](https://img.shields.io/badge/-Integration_Testing-8E44AD?style=flat) 
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
 ![System Testing](https://img.shields.io/badge/-System_Testing-8E44AD?style=flat) 
@@ -49,7 +49,6 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat&logo=shopify) 
 ![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat&logo=openai) 
 ![Telegram Mini Game](https://img.shields.io/badge/-Telegram_Mini_Games-DC3545?style=flat&logo=telegram) 
-
 ![DApps](https://img.shields.io/badge/-DApps-20C997?style=flat&logo=Solana) 
 ![Streaming](https://img.shields.io/badge/-Streaming-FF6347?style=flat&logo=netflix) 
 ![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
@@ -60,19 +59,18 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 [![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
 [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/)
-
 [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=openai)](https://tt-dev-b33c.tongram.app/en) 
+
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
 [![Piston](https://img.shields.io/badge/-Piston-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
 [![Racing](https://img.shields.io/badge/-Racington-DC3545?style=flat&logo=telegram)](https://t.me/racing_ton_bot/app) 
 [![Kingston](https://img.shields.io/badge/-Kingston-DC3545?style=flat&logo=telegram)](https://t.me/kingston_official_bot/kingston?startapp=FHp6AiOsmqMcaXAC) 
-
 [![Tonrider](https://img.shields.io/badge/-Tonrider-DC3545?style=flat&logo=telegram)](https://t.me/ton_rider_bot/ton_rider) 
 [![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=Solana)](https://tongram.app/)
+
 [![Galaxy Play](https://img.shields.io/badge/-Galaxy_Play-FF6347?style=flat&logo=netflix)](https://galaxyplay.vn/)
 [![AIOZ Finance](https://img.shields.io/badge/-AIOZ_Finance-FB8C00?style=flat&logo=bitcoin)](https://aioz.network/)
 [![AIOZ Pin](https://img.shields.io/badge/-AIOZ_Pin-FB8C00?style=flat&logo=bitcoin)](https://aiozpin.network/)
-
 [![AIOZ Storage](https://img.shields.io/badge/-AIOZ_Storage-FB8C00?style=flat&logo=bitcoin)](https://w3s.storage/)
 [![AIOZ AI](https://img.shields.io/badge/-AIOZ_AI-FB8C00?style=flat&logo=bitcoin)](https://aiozai.network/)
 
