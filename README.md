@@ -18,6 +18,9 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Integration Testing](https://img.shields.io/badge/-Integration_Testing-8E44AD?style=flat) 
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
 ![System Testing](https://img.shields.io/badge/-System_Testing-8E44AD?style=flat) 
+![Web Testing](https://img.shields.io/badge/-Web_Testing-4CAF50?style=flat)
+![API Testing](https://img.shields.io/badge/-API_Testing-FF9800?style=flat)
+![Mobile Testing](https://img.shields.io/badge/-Mobile_Testing-9C27B0?style=flat)
 
 ### ***Automation Testing***
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
