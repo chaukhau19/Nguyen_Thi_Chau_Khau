@@ -27,11 +27,10 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ### ***Languages***
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ### ***CI-CD***
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Jenkinsfile](https://img.shields.io/badge/-Jenkinsfile-D24939?style=flat&logo=jenkins)
+![GitHub Action](https://img.shields.io/badge/-GitHub_Action-181717?style=flat&logo=github)
 
 ### ***Systems***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
