@@ -9,13 +9,21 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ### ***Manual Testing***
 ![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat) 
+
 ![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat) 
+
 ![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat) 
+
 ![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat) 
+
 ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat) 
+
 ![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat) 
+
 ![Integration Testing](https://img.shields.io/badge/-Integration_Testing-8E44AD?style=flat) 
+
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
+
 ![System Testing](https://img.shields.io/badge/-System_Testing-8E44AD?style=flat) 
 
 ### ***Automation Testing***
