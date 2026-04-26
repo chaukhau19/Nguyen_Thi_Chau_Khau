@@ -52,16 +52,17 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ## 🌿 II. Highlighted Projects
 
 ### ***Domains***
+#### TMA Solutions (Telecom)
 ![Telecom](https://img.shields.io/badge/-Telecom-1E90FF?style=flat) 
-
+#### Friendify AI (AI / Game / DApps / Mini Apps)
 ![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat&logo=apple-music) 
 ![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat&logo=shopify) 
 ![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat&logo=openai) 
 ![Telegram Mini Game](https://img.shields.io/badge/-Telegram_Mini_Games-DC3545?style=flat&logo=telegram) 
 ![DApps](https://img.shields.io/badge/-DApps-20C997?style=flat&logo=Solana) 
-
+#### Galaxy Play (Streaming Platform)
 ![Streaming](https://img.shields.io/badge/-Streaming-FF6347?style=flat&logo=netflix)
-
+#### AIOZ (Web3 / Blockchain / Decentralized Systems)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
 
 ### ***Projects***
