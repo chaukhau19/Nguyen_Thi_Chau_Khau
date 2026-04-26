@@ -23,9 +23,9 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Core](https://img.shields.io/badge/Core_Testing-581845?style=flat&logo=serverless)
 ![Func](https://img.shields.io/badge/Functional-007BFF?style=flat&logo=testinglibrary)
 ![Integration](https://img.shields.io/badge/Integration-8E44AD?style=flat)
+![System](https://img.shields.io/badge/System-00ACC1?style=flat&logo=selenium) 
 ![Regression](https://img.shields.io/badge/Regression-6A1B9A?style=flat&logo=githubactions)
-![E2E](https://img.shields.io/badge/E2E_Testing-00ACC1?style=flat&logo=selenium) 
- 
+
 #### 🧪 Execution & Validation
 ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets)
 ![Checklist](https://img.shields.io/badge/Checklist-FFC300?style=flat&logo=figma)
