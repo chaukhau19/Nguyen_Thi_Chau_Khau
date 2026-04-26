@@ -16,11 +16,9 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 #### ⚙️ Dynamic Testing
 | ![Web](https://img.shields.io/badge/Web_Testing-4CAF50?style=flat&logo=googlechrome) | ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android) | ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman) | ![Core](https://img.shields.io/badge/Core_System_Testing-581845?style=flat&logo=serverless) | ![Func](https://img.shields.io/badge/Functional-007BFF?style=flat&logo=testinglibrary) | ![Integration](https://img.shields.io/badge/Integration-8E44AD?style=flat) |
  | ![Regression](https://img.shields.io/badge/Regression-6A1B9A?style=flat&logo=githubactions) | ![E2E](https://img.shields.io/badge/E2E_Testing-00ACC1?style=flat&logo=selenium) |
+ 
 #### 🧪 Execution & Validation
-
-| Test Execution | Bug Reporting | Regression Testing | Mobile Testing |
-|:--:|:--:|:--:|:--:|
-| ![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) | ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | ![Regression](https://img.shields.io/badge/Regression-581845?style=flat&logo=githubactions) 
+| ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) | ![TestCase](https://img.shields.io/badge/Test_Case_&_Checklist-9C27B0?style=flat&logo=notion) | ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | ![Regression](https://img.shields.io/badge/Regression-581845?style=flat&logo=githubactions) |
 
 ### ***Automation Testing***
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
