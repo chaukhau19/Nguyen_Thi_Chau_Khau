@@ -11,10 +11,7 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ### ***Manual Testing***
 
 #### 🔍 Static Testing
-
-| Requirement Analysis | Test Planning | Test Design | UI/UX Review |
-|:--:|:--:|:--:|:--:|
-| ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx) | ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) |
+![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx) | ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) |
 
 #### ⚙️ Dynamic Testing
 
