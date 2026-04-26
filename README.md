@@ -2,9 +2,11 @@
 
 Hi there 👋 Welcome to my GitHub profile!
 
-I’m **Nguyễn Thị Châu Khâu** — a Software QA Engineer with **4+ years of experience** in designing scalable test frameworks, building automation systems, and ensuring end-to-end quality across **Telecom, AI, Web3, and Cloud-based platforms**.
+I’m **Nguyễn Thị Châu Khâu** — a Software QA Engineer with **4+ years of experience** in building scalable test frameworks and automation systems across **Telecom, AI, Web3, and Cloud platforms**.
 
-I specialize in Playwright, Appium, and CI/CD integration, with a strong focus on quality ownership, reliability, and fast delivery pipelines.
+I specialize in **Playwright, Appium, API Automation, and CI/CD pipelines**, focusing on quality ownership and fast delivery.
+
+---
 
 ## 🛠️ I. Tech Stack
 
@@ -16,6 +18,11 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma)
 ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) 
 #### 1.2. Dynamic Testing
+![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets)
+![Checklist](https://img.shields.io/badge/Checklist-FFC300?style=flat&logo=figma)
+![TestCase](https://img.shields.io/badge/Test_Case-9C27B0?style=flat&logo=notion)
+![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary)
+![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira)
 ![Web](https://img.shields.io/badge/Web_Testing-4CAF50?style=flat&logo=googlechrome)
 ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android)
 ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman)
@@ -24,15 +31,9 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![System](https://img.shields.io/badge/System-00ACC1?style=flat&logo=selenium) 
 ![UAT](https://img.shields.io/badge/UAT-007BFF?style=flat&logo=testinglibrary)
 ![Regression](https://img.shields.io/badge/Regression-6A1B9A?style=flat&logo=githubactions)
-#### 1.3. Execution & Validation
-![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets)
-![Checklist](https://img.shields.io/badge/Checklist-FFC300?style=flat&logo=figma)
-![TestCase](https://img.shields.io/badge/Test_Case-9C27B0?style=flat&logo=notion)
-![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary)
-![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira)
 
 ### ***2. Automation Testing***
-#### 2.1 Tool
+#### 2.1 Tools
 ![Playwright)(WEB/API)](https://img.shields.io/badge/-Playwright_(WEB/API)-brightgreen?style=flat&logo=playwright)
 ![Robot Framework_(WEB)](https://img.shields.io/badge/-Robot_Framework_(WEB)-green?style=flat&logo=robotframework)
 ![Appium_(APP)](https://img.shields.io/badge/-Appium_(APP)-purple?style=flat&logo=appium)
@@ -44,9 +45,8 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ### ***3. Systems***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![Linux_CLI](https://img.shields.io/badge/-Linux_CLI-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
 
 ## 🌿 II. Highlighted Projects
 
