@@ -10,13 +10,23 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ### ***Manual Testing***
 
-| Requirement Analysis | Test Planning | Test Design | Test Execution |
-|:--:|:--:|:--:|:--:|
-| ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx) | ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![Execute](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) |
+#### 🔍 Static Testing
 
-| Bug Reporting | Regression Testing | API Testing | Mobile Testing |
+| Requirement Analysis | Test Planning | Test Design | UI/UX Review |
 |:--:|:--:|:--:|:--:|
-| ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | ![Regression](https://img.shields.io/badge/Regression-581845?style=flat&logo=githubactions) | ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman) | ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android) |
+| ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx) | ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) |
+
+#### ⚙️ Dynamic Testing
+
+| Functional | Integration | API Testing | System Testing |
+|:--:|:--:|:--:|:--:|
+| ![Func](https://img.shields.io/badge/Functional-007BFF?style=flat&logo=testinglibrary) | ![Integration](https://img.shields.io/badge/Integration-8E44AD?style=flat) | ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman) | ![System](https://img.shields.io/badge/System_Testing-581845?style=flat) |
+
+#### 🧪 Execution & Validation
+
+| Test Execution | Bug Reporting | Regression Testing | Mobile Testing |
+|:--:|:--:|:--:|:--:|
+| ![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) | ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | ![Regression](https://img.shields.io/badge/Regression-581845?style=flat&logo=githubactions) | ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android) |
 
 ### ***Automation Testing***
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
