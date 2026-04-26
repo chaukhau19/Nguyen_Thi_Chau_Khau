@@ -66,8 +66,9 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
 
 ### ***Projects***
+#### Telecom / Core Systems
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=phone)](https://www.cirpack.com/)
-
+#### AI / Music / E-commerce / Web Apps / Telegram Ecosystem
 [![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 [![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
@@ -79,9 +80,9 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 [![Kingston](https://img.shields.io/badge/-Kingston-DC3545?style=flat&logo=telegram)](https://t.me/kingston_official_bot/kingston?startapp=FHp6AiOsmqMcaXAC) 
 [![Tonrider](https://img.shields.io/badge/-Tonrider-DC3545?style=flat&logo=telegram)](https://t.me/ton_rider_bot/ton_rider) 
 [![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=Solana)](https://tongram.app/)
-
+#### Streaming Platform
 [![Galaxy Play](https://img.shields.io/badge/-Galaxy_Play-FF6347?style=flat&logo=netflix)](https://galaxyplay.vn/)
-
+#### Web3 / Blockchain Infrastructure
 [![AIOZ Finance](https://img.shields.io/badge/-AIOZ_Finance-FB8C00?style=flat&logo=bitcoin)](https://aioz.network/)
 [![AIOZ Pin](https://img.shields.io/badge/-AIOZ_Pin-FB8C00?style=flat&logo=bitcoin)](https://aiozpin.network/)
 [![AIOZ Storage](https://img.shields.io/badge/-AIOZ_Storage-FB8C00?style=flat&logo=bitcoin)](https://w3s.storage/)
