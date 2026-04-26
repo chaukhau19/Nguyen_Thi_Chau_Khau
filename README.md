@@ -9,19 +9,15 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ## 🛠️ I. Tech Stack
 
 ### ***Manual Testing***
-![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat) 
-![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat) 
-![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat) 
-![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat) 
-![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat) 
-![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat) 
+### 🧪 Manual Testing
 
-![Integration Testing](https://img.shields.io/badge/-Integration_Testing-8E44AD?style=flat) 
-![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
-![System Testing](https://img.shields.io/badge/-System_Testing-8E44AD?style=flat) 
-![Web Testing](https://img.shields.io/badge/-Web_Testing-4CAF50?style=flat)
-![API Testing](https://img.shields.io/badge/-API_Testing-FF9800?style=flat)
-![Mobile Testing](https://img.shields.io/badge/-Mobile_Testing-9C27B0?style=flat)
+| Requirement Analysis | Test Planning | Test Design | Test Execution |
+|----------------------|--------------|-------------|----------------|
+| ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx) | ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![Execute](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) |
+
+| Bug Reporting | Regression | API Testing | Mobile Testing |
+|--------------|------------|-------------|----------------|
+| ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | ![Regression](https://img.shields.io/badge/Regression-581845?style=flat&logo=githubactions) | ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman) | ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android) |
 
 ### ***Automation Testing***
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
