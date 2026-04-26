@@ -8,14 +8,14 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ## 🛠️ I. Tech Stack
 
-### ***Manual Testing***
+### ***1. Manual Testing***
 
-#### 🔍 Static Testing
+#### 1.1. Static Testing
 ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx)
 ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets)
 ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma)
 ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) 
-#### ⚙️ Dynamic Testing
+#### 1.2. Dynamic Testing
 ![Web](https://img.shields.io/badge/Web_Testing-4CAF50?style=flat&logo=googlechrome)
 ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android)
 ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman)
@@ -24,25 +24,25 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![System](https://img.shields.io/badge/System-00ACC1?style=flat&logo=selenium) 
 ![UAT](https://img.shields.io/badge/UAT-007BFF?style=flat&logo=testinglibrary)
 ![Regression](https://img.shields.io/badge/Regression-6A1B9A?style=flat&logo=githubactions)
-#### 🧪 Execution & Validation
+#### 1.3. Execution & Validation
 ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets)
 ![Checklist](https://img.shields.io/badge/Checklist-FFC300?style=flat&logo=figma)
 ![TestCase](https://img.shields.io/badge/Test_Case-9C27B0?style=flat&logo=notion)
 ![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary)
 ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira)
 
-### ***Automation Testing***
-#### Tool
+### ***2. Automation Testing***
+#### 2.1 Tool
 ![Playwright)(WEB/API)](https://img.shields.io/badge/-Playwright_(WEB/API)-brightgreen?style=flat&logo=playwright)
 ![Robot Framework_(WEB)](https://img.shields.io/badge/-Robot_Framework_(WEB)-green?style=flat&logo=robotframework)
 ![Appium_(APP)](https://img.shields.io/badge/-Appium_(APP)-purple?style=flat&logo=appium)
-#### Programming
+#### 2.2 Programming
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-#### CI-CD
+#### 2.3 CI-CD
 ![Jenkinsfile](https://img.shields.io/badge/-Jenkinsfile-D24939?style=flat&logo=jenkins)
 ![GitHub Action](https://img.shields.io/badge/-GitHub_Action-181717?style=flat&logo=github)
 
-### ***Systems***
+### ***3. Systems***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
@@ -50,7 +50,7 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ## 🌿 II. Highlighted Projects
 
-### ***Domains***
+### ***1. Domains***
 ![Telecom](https://img.shields.io/badge/-Telecom-1E90FF?style=flat) 
 ![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat&logo=apple-music) 
 ![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat&logo=shopify) 
@@ -60,7 +60,7 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Streaming](https://img.shields.io/badge/-Streaming-FF6347?style=flat&logo=netflix)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
 
-### ***Projects***
+### ***2. Projects***
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=phone)](https://www.cirpack.com/)
 [![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 [![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
