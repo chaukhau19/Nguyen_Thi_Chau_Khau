@@ -2,9 +2,9 @@
 
 Hi there 👋 Welcome to my GitHub profile!
 
-I’m **Nguyễn Thị Châu Khâu** — a Software QA Engineer with **4+ years of experience** in building scalable test frameworks and automation systems across **Telecom, AI, Web3, and Cloud platforms**.
+I’m **Nguyễn Thị Châu Khâu** — a Software QA Engineer with **4+ years of experience** in building scalable test frameworks and automation systems across **Telecom, AI, Web3, and Streaming platforms**.
 
-I specialize in **Playwright, Appium, API Automation, and CI/CD pipelines**, focusing on quality ownership and fast delivery.
+I specialize in **Playwright, Robot Framework, and CI/CD pipelines**, focusing on quality ownership and fast delivery.
 
 ---
 
@@ -36,7 +36,6 @@ I specialize in **Playwright, Appium, API Automation, and CI/CD pipelines**, foc
 #### 2.1 Tools
 ![Playwright)(WEB/API)](https://img.shields.io/badge/-Playwright_(WEB/API)-brightgreen?style=flat&logo=playwright)
 ![Robot Framework_(WEB)](https://img.shields.io/badge/-Robot_Framework_(WEB)-green?style=flat&logo=robotframework)
-![Appium_(APP)](https://img.shields.io/badge/-Appium_(APP)-purple?style=flat&logo=appium)
 #### 2.2 Programming
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 #### 2.3 CI-CD
