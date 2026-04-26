@@ -32,14 +32,13 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira)
 
 ### ***Automation Testing***
+#### Tool
 ![Playwright)(WEB/API)](https://img.shields.io/badge/-Playwright_(WEB/API)-brightgreen?style=flat&logo=playwright)
 ![Robot Framework_(WEB)](https://img.shields.io/badge/-Robot_Framework_(WEB)-green?style=flat&logo=robotframework)
 ![Appium_(APP)](https://img.shields.io/badge/-Appium_(APP)-purple?style=flat&logo=appium)
-
-### ***Programming***
+#### Programming
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-
-### ***CI-CD***
+#### CI-CD
 ![Jenkinsfile](https://img.shields.io/badge/-Jenkinsfile-D24939?style=flat&logo=jenkins)
 ![GitHub Action](https://img.shields.io/badge/-GitHub_Action-181717?style=flat&logo=github)
 
