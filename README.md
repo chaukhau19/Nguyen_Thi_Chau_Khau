@@ -14,10 +14,8 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx) | ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) |
 
 #### ⚙️ Dynamic Testing
-
-| Functional | Integration | API Testing | System Testing |
-|:--:|:--:|:--:|:--:|
-| ![Func](https://img.shields.io/badge/Functional-007BFF?style=flat&logo=testinglibrary) | ![Integration](https://img.shields.io/badge/Integration-8E44AD?style=flat) | ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman) | ![System](https://img.shields.io/badge/System_Testing-581845?style=flat) |
+| ![Web](https://img.shields.io/badge/Web_Testing-4CAF50?style=flat&logo=googlechrome) | ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman) | ![Core](https://img.shields.io/badge/Core_System_Testing-581845?style=flat&logo=serverless) | ![Integration](https://img.shields.io/badge/Integration-8E44AD?style=flat) |
+| ![Func](https://img.shields.io/badge/Functional-007BFF?style=flat&logo=testinglibrary) | ![Regression](https://img.shields.io/badge/Regression-6A1B9A?style=flat&logo=githubactions) | ![E2E](https://img.shields.io/badge/E2E_Testing-00ACC1?style=flat&logo=selenium) | ![Cross](https://img.shields.io/badge/Cross_Platform-2E7D32?style=flat&logo=devices) |
 
 #### 🧪 Execution & Validation
 
