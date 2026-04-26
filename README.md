@@ -18,7 +18,7 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
  | ![Regression](https://img.shields.io/badge/Regression-6A1B9A?style=flat&logo=githubactions) | ![E2E](https://img.shields.io/badge/E2E_Testing-00ACC1?style=flat&logo=selenium) |
  
 #### 🧪 Execution & Validation
-| ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) | ![TestCase](https://img.shields.io/badge/Test_Case_&_Checklist-9C27B0?style=flat&logo=notion) | ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | ![Regression](https://img.shields.io/badge/Regression-581845?style=flat&logo=githubactions) |
+| ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Checklist](https://img.shields.io/badge/Checklist-FFC300?style=flat&logo=figma) | ![TestCase](https://img.shields.io/badge/Test_Case-9C27B0?style=flat&logo=notion) | ![Exec](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) | ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | 
 
 ### ***Automation Testing***
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
