@@ -9,14 +9,13 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ## 🛠️ I. Tech Stack
 
 ### ***Manual Testing***
-### 🧪 Manual Testing
 
 | Requirement Analysis | Test Planning | Test Design | Test Execution |
-|----------------------|--------------|-------------|----------------|
+|:--:|:--:|:--:|:--:|
 | ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx) | ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets) | ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma) | ![Execute](https://img.shields.io/badge/Test_Execution-007BFF?style=flat&logo=testinglibrary) |
 
-| Bug Reporting | Regression | API Testing | Mobile Testing |
-|--------------|------------|-------------|----------------|
+| Bug Reporting | Regression Testing | API Testing | Mobile Testing |
+|:--:|:--:|:--:|:--:|
 | ![Bug](https://img.shields.io/badge/Bug_Report-DAF7A6?style=flat&logo=jira) | ![Regression](https://img.shields.io/badge/Regression-581845?style=flat&logo=githubactions) | ![API](https://img.shields.io/badge/API_Testing-FF9800?style=flat&logo=postman) | ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android) |
 
 ### ***Automation Testing***
