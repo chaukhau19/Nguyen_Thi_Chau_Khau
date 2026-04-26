@@ -8,14 +8,13 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ## 🛠️ I. Tech Stack
 
-### *** === Manual Testing === ***
+### ***Manual Testing***
 
 #### 🔍 Static Testing
 ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx)
 ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets)
 ![Design](https://img.shields.io/badge/Test_Design-FFC300?style=flat&logo=figma)
 ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) 
-
 #### ⚙️ Dynamic Testing
 ![Web](https://img.shields.io/badge/Web_Testing-4CAF50?style=flat&logo=googlechrome)
 ![Mobile](https://img.shields.io/badge/Mobile_Testing-9C27B0?style=flat&logo=android)
@@ -25,7 +24,6 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 ![System](https://img.shields.io/badge/System-00ACC1?style=flat&logo=selenium) 
 ![UAT](https://img.shields.io/badge/UAT-007BFF?style=flat&logo=testinglibrary)
 ![Regression](https://img.shields.io/badge/Regression-6A1B9A?style=flat&logo=githubactions)
-
 #### 🧪 Execution & Validation
 ![Plan](https://img.shields.io/badge/Test_Planning-F39C12?style=flat&logo=googlesheets)
 ![Checklist](https://img.shields.io/badge/Checklist-FFC300?style=flat&logo=figma)
