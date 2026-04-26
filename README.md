@@ -8,7 +8,7 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ## 🛠️ I. Tech Stack
 
-### ***Manual Testing***
+### *** === Manual Testing === ***
 
 #### 🔍 Static Testing
 ![Req](https://img.shields.io/badge/Req_Analysis-FF5733?style=flat&logo=checkmarx)
