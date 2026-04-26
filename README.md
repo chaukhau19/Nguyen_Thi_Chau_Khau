@@ -63,12 +63,12 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 
 ### ***Projects***
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=phone)](https://www.cirpack.com/)
+
 [![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 [![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
 [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/)
 [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=openai)](https://tt-dev-b33c.tongram.app/en) 
-
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
 [![Piston](https://img.shields.io/badge/-Piston-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
 [![Racing](https://img.shields.io/badge/-Racington-DC3545?style=flat&logo=telegram)](https://t.me/racing_ton_bot/app) 
@@ -77,6 +77,7 @@ I specialize in Playwright, Appium, and CI/CD integration, with a strong focus o
 [![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=Solana)](https://tongram.app/)
 
 [![Galaxy Play](https://img.shields.io/badge/-Galaxy_Play-FF6347?style=flat&logo=netflix)](https://galaxyplay.vn/)
+
 [![AIOZ Finance](https://img.shields.io/badge/-AIOZ_Finance-FB8C00?style=flat&logo=bitcoin)](https://aioz.network/)
 [![AIOZ Pin](https://img.shields.io/badge/-AIOZ_Pin-FB8C00?style=flat&logo=bitcoin)](https://aiozpin.network/)
 [![AIOZ Storage](https://img.shields.io/badge/-AIOZ_Storage-FB8C00?style=flat&logo=bitcoin)](https://w3s.storage/)
