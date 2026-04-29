@@ -47,8 +47,6 @@ I specialize in **Playwright, Robot Framework, and CI/CD pipelines**, focusing o
 ![Linux_CLI](https://img.shields.io/badge/-Linux_CLI-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 
----
-
 ## 🌿 II. Highlighted Projects
 
 ### ***1. Domains***
@@ -80,14 +78,10 @@ I specialize in **Playwright, Robot Framework, and CI/CD pipelines**, focusing o
 [![AIOZ Storage](https://img.shields.io/badge/-AIOZ_Storage-FB8C00?style=flat&logo=bitcoin)](https://w3s.storage/)
 [![AIOZ AI](https://img.shields.io/badge/-AIOZ_AI-FB8C00?style=flat&logo=bitcoin)](https://aiozai.network/)
 
----
-
 ## 🏆 III. Portfolio Details 
 
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://www.canva.com/design/DAGH9Peicjg/KzrRzpm9c6WhURbgja3--w/edit?utm_content=DAGH9Peicjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![CV](https://img.shields.io/badge/-View%20CV-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.topcv.vn/xem-cv/UwNRVFoDVQcEVFBXUFoPAl4NW1sGA1JRC1QACQ0fca)
-
----
 
 ## 🏆 IV. Achievements
 
@@ -98,8 +92,6 @@ I specialize in **Playwright, Robot Framework, and CI/CD pipelines**, focusing o
 - ⚙️ Improved testing efficiency and expanded cross-platform coverage, increasing confidence in large-scale systems.
 - ⏱️ Reduced automated test execution time by 30%, accelerating release cycles without compromising stability.
 - ⏳ Automated repetitive workflows, saving ~2 hours/day and improving team productivity.
-
----
 
 ## 📫 Connect with me:
 
