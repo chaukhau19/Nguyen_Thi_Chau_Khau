@@ -13,7 +13,7 @@ I specialize in **Playwright, Robot Framework, and CI/CD pipelines**, focusing o
 ### ***1. Manual Testing***
 
 #### 1.1. Static Testing
-![Requirement](https://img.shields.io/badge/Requirement_Analysis-FF5733?style=flat&logo=checkmarx)
+![Requirement](https://img.shields.io/badge/Requirement-FF5733?style=flat&logo=checkmarx)
 ![Documentation](https://img.shields.io/badge/Documentation-F39C12?style=flat&logo=googlesheets)
 ![UI/UX](https://img.shields.io/badge/UI_UX_Review-4CAF50?style=flat&logo=figma) 
 #### 1.2. Dynamic Testing
