@@ -84,13 +84,14 @@ I specialize in **Playwright, Robot Framework, and CI/CD pipelines**, focusing o
 
 ## 🏆 IV. Achievements
 
-- 🐞 Identified and resolved critical defects early, significantly reducing post-release issues and improving overall product quality.
-- 🏗️ Designed and implemented scalable end-to-end automation frameworks (Web, API, Mobile), establishing reusable and maintainable test architecture across projects.
-- 🚀 Integrated automation into CI/CD pipelines, enabling faster feedback cycles and more reliable releases.
+- 🐞 Identified and resolved critical defects during early testing phases, reducing post-release production issues by 99.99% and improving overall product stability.
+- 🏗️ Designed and implemented scalable end-to-end automation frameworks for Web, API, and Mobile testing, increasing automation reusability and reducing script maintenance effort by 70%-80%.
+- 🚀 Integrated automated test suites into CI/CD pipelines, shortening feedback cycles by 50% and enabling faster, more reliable releases.
 - ✅ Led and executed 5,000+ test cases across multiple product versions, ensuring comprehensive system validation.
-- ⚙️ Improved testing efficiency and expanded cross-platform coverage, increasing confidence in large-scale systems.
+- ⚙️ Expanded cross-platform automation coverage and improved testing efficiency, reducing manual regression effort by 50%-70%.
 - ⏱️ Reduced automated test execution time by 30%, accelerating release cycles without compromising stability.
 - ⏳ Automated repetitive workflows, saving ~2 hours/day and improving team productivity.
+- 📈 Improved defect detection efficiency and streamlined QA processes, contributing to smoother release cycles and reduced testing bottlenecks.
 
 ## 📫 Connect with me:
 
