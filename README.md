@@ -2,9 +2,11 @@
 
 Hi there 👋 Welcome to my GitHub profile!
 
-I’m **Nguyễn Thị Châu Khâu** — a Software QA Engineer with **4+ years of experience** in building scalable test frameworks and automation systems across **Telecom, AI, Web3, and Streaming platforms**.
+I’m Nguyễn Thị Châu Khâu — a Software QA Engineer with 4+ years of experience across Telecom, Streaming, AI, Web3, and distributed systems.
 
-I specialize in **Playwright, Robot Framework, and CI/CD pipelines**, focusing on quality ownership and fast delivery.
+I build scalable Web/API automation frameworks using Playwright and Robot Framework, integrate regression pipelines into CI/CD workflows, and work across everything from frontend validation to backend systems, telecom core labs, and infrastructure-level troubleshooting.
+
+Passionate about automation engineering, quality architecture, and building reliable testing ecosystems that scale with fast-moving products.
 
 ---
 
