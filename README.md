@@ -47,6 +47,8 @@ Passionate about automation engineering, test architecture, and improving softwa
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-181717?style=flat&logo=github)
 
 ### ***3. Systems***
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat&logo=subversion)
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Linux_CLI](https://img.shields.io/badge/-Linux_CLI-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
