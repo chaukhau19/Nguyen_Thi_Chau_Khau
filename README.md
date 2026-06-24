@@ -35,18 +35,22 @@ Passionate about automation engineering, test architecture, and improving softwa
 
 ### ***2. Automation Testing***
 #### 2.1 Tools
-![Playwright)(WEB/API)](https://img.shields.io/badge/-Playwright_(WEB/API)-brightgreen?style=flat&logo=playwright)
-![Robot Framework_(WEB)](https://img.shields.io/badge/-Robot_Framework_(WEB)-green?style=flat&logo=robotframework)
+![Playwright (WEB/API)](https://img.shields.io/badge/-Playwright_(WEB/API)-brightgreen?style=flat&logo=playwright)
+![Robot Framework (WEB)](https://img.shields.io/badge/-Robot_Framework_(WEB)-green?style=flat&logo=robotframework)
+![Appium (Mobile)](https://img.shields.io/badge/-Appium(Mobile)-purple?style=flat&logo=appium)
+![Postman / API Testing](https://img.shields.io/badge/-API_Testing(Postman)-FF6C37?style=flat&logo=postman)
 #### 2.2 Programming
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-#### 2.3 CI-CD
-![Jenkinsfile](https://img.shields.io/badge/-Jenkinsfile-D24939?style=flat&logo=jenkins)
-![GitHub Action](https://img.shields.io/badge/-GitHub_Action-181717?style=flat&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
+#### 2.3 CI/CD
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-181717?style=flat&logo=github)
 
 ### ***3. Systems***
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Linux_CLI](https://img.shields.io/badge/-Linux_CLI-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver)
 
 ## 🌿 II. Highlighted Projects
 
