@@ -1,12 +1,12 @@
-# 🌟 Software QA Engineer | Automation Architect 🌟
+🌟 Software QA Engineer | Automation Engineer 🌟
 
 Hi there 👋 Welcome to my GitHub profile!
 
-I’m Nguyễn Thị Châu Khâu — a Software QA Engineer with 4+ years of experience across Telecom, Streaming, AI, Web3, and distributed systems.
+I’m Nguyễn Thị Châu Khâu — a Software QA Engineer with 4+ years of experience across Telecom, Streaming, AI, Web3, Banking, AdTech, and distributed systems.
 
-I build scalable Web/API automation frameworks using Playwright and Robot Framework, integrate regression pipelines into CI/CD workflows, and work across everything from frontend validation to backend systems, telecom core labs, and infrastructure-level troubleshooting.
+I specialize in building scalable Web/API automation frameworks using Playwright and Robot Framework, integrating CI/CD pipelines, and working across UI, API, mobile, and infrastructure-level testing environments including telecom core systems and distributed architectures.
 
-Passionate about automation engineering, quality architecture, and building reliable testing ecosystems that scale with fast-moving products.
+Passionate about automation engineering, test architecture, and improving software quality through scalable and reliable QA systems.
 
 ---
 
@@ -52,11 +52,12 @@ Passionate about automation engineering, quality architecture, and building reli
 
 ### ***1. Domains***
 ![Telecom](https://img.shields.io/badge/-Telecom-1E90FF?style=flat) 
+![Banking](https://img.shields.io/badge/-Banking-2E86C1?style=flat&logo=visa) 
 ![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat&logo=apple-music) 
 ![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat&logo=shopify) 
 ![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat&logo=openai) 
 ![Telegram Mini Game](https://img.shields.io/badge/-Telegram_Mini_Games-DC3545?style=flat&logo=telegram) 
-![DApps](https://img.shields.io/badge/-DApps-20C997?style=flat&logo=Solana) 
+![DApps](https://img.shields.io/badge/-DApps-20C997?style=flat&logo=solana) 
 ![Streaming](https://img.shields.io/badge/-Streaming-FF6347?style=flat&logo=netflix)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-FB8C00?style=flat&logo=bitcoin) 
 
@@ -86,14 +87,14 @@ Passionate about automation engineering, quality architecture, and building reli
 
 ## 🏆 IV. Achievements
 
-- 🐞 Identified and resolved critical defects during early testing phases, reducing post-release production issues by 99.99% and improving overall product stability.
-- 🏗️ Designed and implemented scalable end-to-end automation frameworks for Web, API, and Mobile testing, increasing automation reusability and reducing script maintenance effort by 70%-80%.
-- 🚀 Integrated automated test suites into CI/CD pipelines, shortening feedback cycles by 50% and enabling faster, more reliable releases.
-- ✅ Led and executed 5,000+ test cases across multiple product versions, ensuring comprehensive system validation.
-- ⚙️ Expanded cross-platform automation coverage and improved testing efficiency, reducing manual regression effort by 50%-70%.
-- ⏱️ Reduced automated test execution time by 30%, accelerating release cycles without compromising stability.
-- ⏳ Automated repetitive workflows, saving ~2 hours/day and improving team productivity.
-- 📈 Improved defect detection efficiency and streamlined QA processes, contributing to smoother release cycles and reduced testing bottlenecks.
+- 🐞 Identified and resolved critical defects during early testing phases, reducing post-release production issues and improving overall product stability across Web, API, and distributed systems.
+- 🏗️ Designed and implemented scalable end-to-end automation frameworks for Web, API, and Mobile testing using Playwright, Robot Framework, Java API automation, and Appium, increasing automation reusability and reducing script maintenance effort by 70%-80% across multiple enterprise projects.
+- 🚀 Integrated automated test suites into CI/CD pipelines (Jenkins, GitHub Actions), shortening feedback cycles by 50% and enabling faster, more reliable release validation across distributed environments.
+- ✅ Led and executed 5,000+ test cases across telecom systems and supported thousands of API test scenarios in banking systems, ensuring comprehensive system validation across multiple product versions and environments.
+- ⚙️ Expanded cross-platform automation coverage (Web, API, Mobile) and improved testing efficiency, reducing manual regression effort by 50%-70% across large-scale regression suites.
+- ⏱️ Reduced automated test execution time by 30% through framework optimization, parallel execution strategy improvements, and test stability enhancements.
+- ⏳ Automated repetitive QA workflows, saving ~2 hours/day and improving team productivity across test execution and debugging activities.
+- 📈 Improved defect detection efficiency and streamlined QA processes through exploratory testing, test design optimization, and better regression coverage, contributing to smoother release cycles and reduced testing bottlenecks.
 
 ## 📫 Connect with me:
 
