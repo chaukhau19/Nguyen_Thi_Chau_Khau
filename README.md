@@ -37,8 +37,8 @@ Passionate about automation engineering, test architecture, and improving softwa
 #### 2.1 Tools
 ![Playwright (WEB/API)](https://img.shields.io/badge/-Playwright_(WEB/API)-brightgreen?style=flat&logo=playwright)
 ![Robot Framework (WEB)](https://img.shields.io/badge/-Robot_Framework_(WEB)-green?style=flat&logo=robotframework)
-![Appium (Mobile)](https://img.shields.io/badge/-Appium(Mobile)-purple?style=flat&logo=appium)
-![Postman / API Testing](https://img.shields.io/badge/-API_Testing(Postman)-FF6C37?style=flat&logo=postman)
+![Appium (Mobile)](https://img.shields.io/badge/-Appium_(Mobile)-purple?style=flat&logo=appium)
+![Postman / API Testing](https://img.shields.io/badge/-API_Testing_(Postman)-FF6C37?style=flat&logo=postman)
 #### 2.2 Programming
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
