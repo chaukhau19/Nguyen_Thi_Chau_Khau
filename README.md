@@ -63,6 +63,7 @@ Passionate about automation engineering, test architecture, and improving softwa
 
 ### ***2. Projects***
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=phone)](https://www.cirpack.com/)
+[![Sacombank](https://img.shields.io/badge/Sacombank-2E86C1?style=flat&logo=visa)](https://www.sacombank.com.vn/)
 [![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 [![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
